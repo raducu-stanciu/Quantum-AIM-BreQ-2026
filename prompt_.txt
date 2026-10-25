@@ -1,0 +1,23 @@
+Cum pot reduce un set de date dezechilibrat cu 30 de coloane la 4 trasaturi optime pentru codificare unghiulara pe 4 qubiti?
+
+De ce este PCA nesupravegheat nepotrivit pe un dataset cu 0.17% fraude si cum aplic selectia ANOVA F-value cu SelectKBest si f_classif excluzand Time si Amount?
+
+Cum normalizez datele numerice in intervalul [0, pi] cu MinMaxScaler pentru a le mapa pe porti cuantice de rotatie RZ?
+
+Cum implementez un undersampling 1:1 doar pe setul de antrenare, pastrand seturile de validare si test complet dezechilibrate pentru o evaluare reala?
+
+Cum construiesc un circuit Baseline VQC in PennyLane cu 2 repetitii de feature map all-to-all si 3 straturi de ansatz entangling?
+
+Cum optimizez circuitul intr-o varianta Frugala cu entangling adiacent intre vecini pentru a reduce portile CNOT de la 33 la 9?
+
+Cum calculez numarul exact de canale de zgomot si adancimea circuitului folosind qml.transforms.decompose si qml.specs?
+
+Cum proiectez un ansatz compact care elimina rotatiile redundante pe qubitii neutilizati la masuratoarea finala de pe qubitul 0?
+
+Cum construiesc o bucla hibrida de antrenare in PyTorch si PennyLane folosind functia BCELoss si optimizatorul Adam?
+
+Cum functioneaza optimizatorul Adam prin momentum si RMSProp in ajustarea unghiurilor variationale pentru a evita blocarea in barren plateaus?
+
+Cum implementez salvarea celui mai bun set de greutati prin checkpoint pe baza maximizarii metricii AUPRC pe setul de validare in 20 de epoci?
+
+Cum inserez canale de zgomot depolarizant la nivelurile p = 0.001, 0.01 si 0.05 folosind qml.noise.insert pe un device default.mixed fara recompilarea grafului computational?
